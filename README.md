@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pancakiee.
-- 👀 I’m interested in men.
 - 🌱 I’m currently learning Web Development starting with HTML & CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: Reach out with your hand.
